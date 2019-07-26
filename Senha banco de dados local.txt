@@ -2,4 +2,4 @@
 <add name="BennerConecta" connectionString="Server=mga-sql001;Database=conecta;User Id=des;Password=benner;"/>
    <add name="BennerConectaLogging" connectionString="Data Source=(local);Initial Catalog=LOGS;Trusted_Connection=True;" />
   
-<add name="HangfireDatabase" connectionString="Server=mga-sql001;Database=conectajobs;User Id=des;Password=benner;"/>
+<addfkkfdklfjalskfj spfu padufpojgpq rgp gpjsdgjfksgjdslfkjjklgjsflkgjslgjlskdjglsdfjglksdjfglsdfg:i:O:;;;;;;;;;;;xxc≈ç  mnu[ppppsdafasdfasdd name="HangfireDatabase" connectionString="Server=mga-sql001;Database=conectajobs;User Id=des;Password=benner;"/>
